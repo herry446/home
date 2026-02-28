@@ -3,3 +3,10 @@
   margin: 0;
   list-style: none;
 }
+
+.bg_1 {
+  background: rgba(254, 93, 51, 1);
+  width: 1380;
+  height: 783;
+  border-radius: 40px;
+}
